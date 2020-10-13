@@ -1,3 +1,6 @@
+#Anuvi Batra
+#eLibrary Project
+
 import mysql.connector
 
 eLibraryDB = "elib"
